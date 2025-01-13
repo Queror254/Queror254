@@ -4,9 +4,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/21323120/techmystic)](https://stackoverflow.com/users/21323120/techmystic)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mwendavictorm@gmail.com)](mailto:mwendavictorm@gmail.com)
 
-## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
+## Hello! <img src="" width="22">
 
-Full-stack Developer (currently working with React.js and Node.js), full-time at Albert Einstein hospital, one of the best hospitals on the world. Developing scalable and robust solutions.
+Full-stack Developer (currently working with React.js, Nextjs, Node.js and Python), full-time freelance developer. Developing scalable and robust solutions for all businesses.
 
 - :office_worker: Full Stack Developer (Currently, back-end heavy)
 - :blue_heart: Stack: Python, Django, ReactJS, ReactNative NodeJS, React Native and PostgreSQL
