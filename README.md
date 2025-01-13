@@ -1,4 +1,4 @@
-# :the_developer: Victor Mwenda <techmystic />
+# :the_developer: _techmystic
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-mwenda-655084241/)](https://www.linkedin.com/in/victor-mwenda-655084241/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/21323120/techmystic)](https://stackoverflow.com/users/21323120/techmystic)
