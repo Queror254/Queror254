@@ -1,7 +1,6 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Queror254.Queror254)
 <img src="https://github.com/Queror254/Queror254/blob/main/download.gif" alt="TechMystic" width="900" height="200">
 # :the_developer: _techmystic
-<script src="https://cdn.logwork.com/widget/text.js"></script>
-<a href="https://logwork.com/current-time-in-nairobi-kenya-nairobi-city" class="clock-widget-text" data-timezone="Africa/Nairobi" data-language="en">Nairobi, Kenya</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-mwenda-655084241/)](https://www.linkedin.com/in/victor-mwenda-655084241/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/21323120/techmystic)](https://stackoverflow.com/users/21323120/techmystic)
