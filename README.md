@@ -1,5 +1,5 @@
 <img src="https://github.com/Queror254/Queror254/blob/main/download.gif" alt="TechMystic" width="900" height="200">
-<img src="https://github.com/Queror254/Queror254/blob/main/3319303515.gif" alt="TechMystic" width="900" height="200">
+<img src="https://github.com/Queror254/Queror254/blob/main/3319303515.gif" alt="TechMystic" height="300">
 
 # :the_developer: _techmystic
 
