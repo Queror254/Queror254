@@ -1,5 +1,4 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Queror254.Queror254)
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Queror254.Queror254)  
 <img src="https://github.com/Queror254/Queror254/blob/main/download.gif" alt="TechMystic" width="900" height="200">
 # :the_developer: _techmystic
 
@@ -22,6 +21,8 @@ Full-stack Developer (currently working with React.js, Nextjs, Node.js and Pytho
 <details>
   <summary> <b> Know more about Victor </b> <i>(Click here to expand)</i> </summary>
   <br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queror254&layout=compact)
 
   ## Some technologies
 
