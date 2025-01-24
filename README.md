@@ -1,5 +1,6 @@
-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Queror254.Queror254)
-- <img src="https://github.com/Queror254/Queror254/blob/main/download.gif" alt="TechMystic" width="900" height="200">
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Queror254.Queror254)
+
+<img src="https://github.com/Queror254/Queror254/blob/main/download.gif" alt="TechMystic" width="900" height="200">
 # :the_developer: _techmystic
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-mwenda-655084241/)](https://www.linkedin.com/in/victor-mwenda-655084241/)
