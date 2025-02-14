@@ -14,7 +14,7 @@ Full-stack Developer (currently working with React.js, Nextjs, Node.js and Pytho
 - :blue_heart: Stack: Python, Django, ReactJS, ReactNative NodeJS, React Native and PostgreSQL
 - :books: Learning: Extension bulding, Clean Architecture and Design System
 
-> :octocat: [techmystic.dev](https://techmystic.vercel.app/)
+> :octocat: [techmystic.dev](http://techmystic.sytes.net/)
 
 ---
 
