@@ -8,11 +8,11 @@
 
 ## Hello! <img src="https://github.com/Queror254/Queror254/blob/main/hi.gif" width="22">
 
-Full-stack Developer (currently working with React.js, Nextjs, Node.js and Python), full-time freelance developer. Developing scalable and robust solutions for all businesses.
+Full-stack Developer (currently working with React.js, Nextjs, Node.js, PHP and Python), full-time freelance developer. Developing scalable and robust solutions for all businesses.
 
 - :office_worker: Full Stack Developer (Currently, back-end heavy)
 - :blue_heart: Stack: Python, Django, ReactJS, ReactNative NodeJS, React Native and PostgreSQL
-- :books: Learning: Extension bulding, Clean Architecture and Design System
+- :books: Learning: Algo Trading, Extension bulding, Clean Architecture and Design System
 
 > :octocat: [techmystic.dev](http://techmystic.sytes.net/)
 
@@ -33,6 +33,7 @@ Full-stack Developer (currently working with React.js, Nextjs, Node.js and Pytho
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+  ![Python](https://img.shields.io/badge/-Python-0077C6?style=flat-square&logo=python&logoColor=fff)
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
