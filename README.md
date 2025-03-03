@@ -11,7 +11,7 @@
 Full-stack Developer (currently working with React.js, Nextjs, Node.js, PHP and Python), full-time freelance developer. Developing scalable and robust solutions for all businesses.
 
 - :office_worker: Full Stack Developer (Currently, back-end heavy)
-- :blue_heart: Stack: Python, Django, ReactJS, ReactNative NodeJS, React Native and PostgreSQL
+- :blue_heart: Stack: Python, PHP, Django, ReactJS, ReactNative NodeJS, React Native and PostgreSQL
 - :books: Learning: Algo Trading, Extension bulding, Clean Architecture and Design System
 
 > :octocat: [techmystic.dev](http://techmystic.sytes.net/)
@@ -29,6 +29,7 @@ Full-stack Developer (currently working with React.js, Nextjs, Node.js, PHP and 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+  ![PHP](https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=php&logoColor=white)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
